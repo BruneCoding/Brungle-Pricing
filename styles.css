@@ -32,11 +32,13 @@ section {
   opacity: 1;
   position: relative;
   scale: 0.8;
+  margin-top: 50px;
   margin-bottom: 50px;
   width: 100vw;
   height: auto;
 }
 .pricing {
+  margin-top: 500px;
   background: #3e404e;
   color: white;
   height: auto;
